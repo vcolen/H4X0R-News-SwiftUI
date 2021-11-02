@@ -15,3 +15,4 @@ struct H4X0R_NewsApp: App {
         }
     }
 }
+
